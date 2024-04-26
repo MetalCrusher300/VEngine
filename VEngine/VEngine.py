@@ -10,7 +10,7 @@ setworldcoordinates(0, 0, 1000, 1000)
 penup()
 pencolor(255, 255, 255)
 
-title("Vector")
+title("Vector Display")
 
 speed(0)
 
